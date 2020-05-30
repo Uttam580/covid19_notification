@@ -1,6 +1,8 @@
 # data scrapped from mohfw website using beautifulsoup
 # get notification  on desktop using plyer
 
+#'this is created by uttam'
+
 from plyer import notification
 import requests
 from bs4 import BeautifulSoup
